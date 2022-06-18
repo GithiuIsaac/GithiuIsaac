@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @GithiuIsaac
+- 👀 DevOps Engineer
+- 👀 Skills:
+- Container Orchstration using Kubernetes
+- Monitoring with Prometheus & DataDog
 - 👀 I’m interested in Web Development & Automation using Python
 - 🌱 I’m currently learning Flask
-- 💞️ I’m looking to collaborate on learning stuff
 - 📫 How to reach me @igithiu on Twitter
 
 <!---
